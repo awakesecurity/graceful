@@ -1,3 +1,5 @@
+**NOTE**: _This repository is no longer supported or updated by Awake Security / Arista Networks. If you wish to continue to develop this code yourself, we recommend you fork it._
+
 graceful [![GoDoc](https://godoc.org/github.com/tylerb/graceful?status.png)](http://godoc.org/github.com/tylerb/graceful) [![Build Status](https://travis-ci.org/tylerb/graceful.svg?branch=master)](https://travis-ci.org/tylerb/graceful) [![Coverage Status](https://coveralls.io/repos/tylerb/graceful/badge.svg)](https://coveralls.io/r/tylerb/graceful) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tylerb/graceful?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 ========
 
